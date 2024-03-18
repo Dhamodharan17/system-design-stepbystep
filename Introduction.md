@@ -100,7 +100,7 @@ For twitter .
 - Define APIs
 - estimate the numbers like number of users/tweets/time to generate
 - data model(jpa)
-- high level design (5-6 boxes)
+- high level design (5-6 boxes)[ load balancer, file storage, high read/write ]
 - detailed design, dig deeper into 2-3 components
 - identify and as many as resolve bottle necks
 
